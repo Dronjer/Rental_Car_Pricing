@@ -1,4 +1,4 @@
-# This is car rental service program using python
+# This is car rental service program using python. Object Oriented Programming
 import sys
 
 class Rental:
